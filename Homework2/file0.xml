@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bookk>
+  <book id="101">
+    <author>Steve Jobs</author>
+    <title>The Book of Database</title>
+    <year>2025</year>
+    <price>159.99</price>
+  </book>
+<book id="102"><author>Muks</author><title>Database Bootcamp</title><year>2024</year><price>259.99</price></book><book id="103"><author>Muks</author><title>Database Bootcamp newest version</title><year>2024</year><price>359.99</price></book></bookk>
